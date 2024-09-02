@@ -8,7 +8,8 @@
     <title>About</title>
 </head>
 <body>
+<h1>Menú</h1>
 @include('layouts._partial.menu')
-    <h1>Acerca de nosotros</h1>
+
 </body>
 </html>

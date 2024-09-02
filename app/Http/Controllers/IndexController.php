@@ -13,6 +13,30 @@ class IndexController extends Controller
      */
     public function index(Request $request): View
     {
+        return view('landing.index');
+    }
+
+    /**
+     * Display a listing of the resource.
+     */
+    public function services(Request $request): View
+    {
+        return view('landing.services');
+    }
+
+    /**
+     * Display a listing of the resource.
+     */
+    public function about(Request $request): View
+    {
+        return view('landing.about');
+    }
+
+    /**
+     * Display a listing of the resource.
+     */
+    public function welcome(Request $request): View
+    {
         return view('welcome');
     }
 

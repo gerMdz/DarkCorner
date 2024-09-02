@@ -1,1 +1,4 @@
-[Ep2](https://youtu.be/--sKDxpKbxM?si=ObjzJ6utPbM5T-py&t=2036)
+[Ep2](https://youtu.be/--sKDxpKbxM?si=-Lp5IVLc394eE_sE&t=3076)
+
+
+Usando componentes del tipo <x-ep2 />
