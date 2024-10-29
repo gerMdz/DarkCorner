@@ -4,5 +4,6 @@
         <p class="text-center">
             <a href="{{$githuburl}}" class="text-blue-500 hover:text-blue-700 hover:underline">Visita mi Github</a>
         </p>
+        {{$content}}
     </div>
 </div>
